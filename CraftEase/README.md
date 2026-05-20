@@ -112,3 +112,4 @@ Sve poveznice na Bauhaus webshop generiraju se kao search URL:
 `https://www.bauhaus.hr/cgi-bin/biscsearch.pl?lang=hr&searchtext=POJAM`
 
 Zamijeni `POJAM` s konkretnim nazivom proizvoda za preciznije rezultate.
+ proba proba proba
